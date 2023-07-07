@@ -1,0 +1,17 @@
+ pastamuncher@pastamuncher-VirtualBox
+ OS: Ubuntu 22.04 jammy
+ Kernel: x86_64 Linux 5.19.0-46-generic
+ Uptime: 47m
+ Packages: 1659
+ Shell: bash 5.1.16
+ Resolution: 800x600
+ DE: GNOME 41.7
+ WM: Mutter
+ WM Theme: Adwaita
+ GTK Theme: Yaru [GTK2/3]
+ Icon Theme: Yaru
+ Font: Ubuntu 11
+ Disk: 13G / 25G (53%)
+ CPU: 12th Gen Intel Core i7-12700H @ 2x 2.688GHz
+ GPU: VMware SVGA II Adapter
+ RAM: 1445MiB / 1963MiB

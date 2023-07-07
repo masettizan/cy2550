@@ -1,0 +1,195 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Jul06 ?        00:00:01 /sbin/init splash
+root           2       0  0 Jul06 ?        00:00:00 [kthreadd]
+root           3       2  0 Jul06 ?        00:00:00 [rcu_gp]
+root           4       2  0 Jul06 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 Jul06 ?        00:00:00 [slub_flushwq]
+root           6       2  0 Jul06 ?        00:00:00 [netns]
+root           8       2  0 Jul06 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 Jul06 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 Jul06 ?        00:00:00 [rcu_tasks_kthread]
+root          12       2  0 Jul06 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          13       2  0 Jul06 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          14       2  0 Jul06 ?        00:00:00 [ksoftirqd/0]
+root          15       2  0 Jul06 ?        00:00:01 [rcu_preempt]
+root          16       2  0 Jul06 ?        00:00:00 [migration/0]
+root          17       2  0 Jul06 ?        00:00:00 [idle_inject/0]
+root          19       2  0 Jul06 ?        00:00:00 [cpuhp/0]
+root          20       2  0 Jul06 ?        00:00:00 [cpuhp/1]
+root          21       2  0 Jul06 ?        00:00:00 [idle_inject/1]
+root          22       2  0 Jul06 ?        00:00:00 [migration/1]
+root          23       2  0 Jul06 ?        00:00:00 [ksoftirqd/1]
+root          25       2  0 Jul06 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          26       2  0 Jul06 ?        00:00:00 [kdevtmpfs]
+root          27       2  0 Jul06 ?        00:00:00 [inet_frag_wq]
+root          28       2  0 Jul06 ?        00:00:00 [kauditd]
+root          29       2  0 Jul06 ?        00:00:00 [khungtaskd]
+root          31       2  0 Jul06 ?        00:00:00 [oom_reaper]
+root          33       2  0 Jul06 ?        00:00:00 [writeback]
+root          34       2  0 Jul06 ?        00:00:00 [kcompactd0]
+root          35       2  0 Jul06 ?        00:00:00 [ksmd]
+root          36       2  0 Jul06 ?        00:00:00 [khugepaged]
+root          37       2  0 Jul06 ?        00:00:00 [kintegrityd]
+root          38       2  0 Jul06 ?        00:00:00 [kblockd]
+root          39       2  0 Jul06 ?        00:00:00 [blkcg_punt_bio]
+root          40       2  0 Jul06 ?        00:00:00 [tpm_dev_wq]
+root          41       2  0 Jul06 ?        00:00:00 [ata_sff]
+root          42       2  0 Jul06 ?        00:00:00 [md]
+root          43       2  0 Jul06 ?        00:00:00 [edac-poller]
+root          44       2  0 Jul06 ?        00:00:00 [devfreq_wq]
+root          45       2  0 Jul06 ?        00:00:00 [watchdogd]
+root          47       2  0 Jul06 ?        00:00:00 [kworker/0:1H-kblockd]
+root          48       2  0 Jul06 ?        00:00:00 [kswapd0]
+root          49       2  0 Jul06 ?        00:00:00 [ecryptfs-kthread]
+root          55       2  0 Jul06 ?        00:00:00 [kthrotld]
+root          60       2  0 Jul06 ?        00:00:00 [acpi_thermal_pm]
+root          61       2  0 Jul06 ?        00:00:00 [xenbus_probe]
+root          62       2  0 Jul06 ?        00:00:00 [scsi_eh_0]
+root          63       2  0 Jul06 ?        00:00:00 [scsi_tmf_0]
+root          64       2  0 Jul06 ?        00:00:00 [scsi_eh_1]
+root          65       2  0 Jul06 ?        00:00:00 [scsi_tmf_1]
+root          66       2  0 Jul06 ?        00:00:00 [vfio-irqfd-clea]
+root          68       2  0 Jul06 ?        00:00:00 [mld]
+root          69       2  0 Jul06 ?        00:00:00 [kworker/1:1H-kblockd]
+root          70       2  0 Jul06 ?        00:00:00 [ipv6_addrconf]
+root          75       2  0 Jul06 ?        00:00:00 [kstrp]
+root          81       2  0 Jul06 ?        00:00:00 [zswap-shrink]
+root          82       2  0 Jul06 ?        00:00:00 [kworker/u5:0]
+root         128       2  0 Jul06 ?        00:00:00 [charger_manager]
+root         168       2  0 Jul06 ?        00:00:00 [scsi_eh_2]
+root         169       2  0 Jul06 ?        00:00:00 [scsi_tmf_2]
+root         192       2  0 Jul06 ?        00:00:00 [jbd2/sda3-8]
+root         193       2  0 Jul06 ?        00:00:00 [ext4-rsv-conver]
+root         232       1  0 Jul06 ?        00:00:00 /lib/systemd/systemd-journald
+root         264       2  0 Jul06 ?        00:00:02 [kworker/0:3-events]
+root         266       2  0 Jul06 ?        00:00:00 [irq/18-vmwgfx]
+root         267       2  0 Jul06 ?        00:00:00 [card0-crtc0]
+root         268       2  0 Jul06 ?        00:00:00 [card0-crtc1]
+root         269       2  0 Jul06 ?        00:00:00 [card0-crtc2]
+root         270       2  0 Jul06 ?        00:00:00 [card0-crtc3]
+root         271       2  0 Jul06 ?        00:00:00 [card0-crtc4]
+root         272       2  0 Jul06 ?        00:00:00 [card0-crtc5]
+root         273       2  0 Jul06 ?        00:00:00 [card0-crtc6]
+root         274       2  0 Jul06 ?        00:00:00 [card0-crtc7]
+root         283       1  0 Jul06 ?        00:00:00 /lib/systemd/systemd-udevd
+root         286       2  0 Jul06 ?        00:00:00 [kworker/1:3-events]
+root         319       2  0 Jul06 ?        00:00:01 [kworker/u4:4-events_power_efficient]
+root         326       2  0 Jul06 ?        00:00:00 [cryptd]
+systemd+     429       1  0 Jul06 ?        00:00:02 /lib/systemd/systemd-oomd
+systemd+     430       1  0 Jul06 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     435       1  0 Jul06 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         571       1  0 Jul06 ?        00:00:00 /usr/libexec/accounts-daemon
+root         572       1  0 Jul06 ?        00:00:00 /usr/sbin/acpid
+avahi        574       1  0 Jul06 ?        00:00:00 avahi-daemon: running [pastamuncher-VirtualBox.local]
+root         575       1  0 Jul06 ?        00:00:00 /usr/sbin/cron -f -P
+message+     576       1  0 Jul06 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         577       1  0 Jul06 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         584       1  0 Jul06 ?        00:00:00 /usr/sbin/irqbalance --foreground
+root         588       1  0 Jul06 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         589       1  0 Jul06 ?        00:00:00 /usr/libexec/polkitd --no-debug
+root         591       1  0 Jul06 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       593       1  0 Jul06 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         596       1  0 Jul06 ?        00:00:06 /usr/lib/snapd/snapd
+root         597       1  0 Jul06 ?        00:00:00 /usr/libexec/switcheroo-control
+root         601       1  0 Jul06 ?        00:00:00 /lib/systemd/systemd-logind
+root         602       1  0 Jul06 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         603       1  0 Jul06 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        606     574  0 Jul06 ?        00:00:00 avahi-daemon: chroot helper
+root         643       1  0 Jul06 ?        00:00:00 /usr/sbin/ModemManager
+root         648       1  0 Jul06 ?        00:00:00 /usr/sbin/cupsd -l
+root         689       1  0 Jul06 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         694       1  0 Jul06 ?        00:00:00 /usr/sbin/gdm3
+root         706     694  0 Jul06 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+pastamu+     725       1  0 Jul06 ?        00:00:01 /lib/systemd/systemd --user
+pastamu+     726     725  0 Jul06 ?        00:00:00 (sd-pam)
+root         735       1  0 Jul06 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops     742       1  0 Jul06 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     744       1  0 Jul06 ?        00:00:00 /usr/sbin/kerneloops
+pastamu+     776     725  0 Jul06 ?        00:00:00 /usr/bin/pipewire
+pastamu+     777     725  0 Jul06 ?        00:00:00 /usr/bin/pipewire-media-session
+pastamu+     778     725  0 Jul06 ?        00:00:01 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+pastamu+     790       1  0 Jul06 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+rtkit        796       1  0 Jul06 ?        00:00:00 /usr/libexec/rtkit-daemon
+pastamu+     801     706  0 Jul06 tty2     00:00:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+pastamu+     803     725  0 Jul06 ?        00:00:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+pastamu+     807     801  0 Jul06 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+pastamu+     808     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfsd
+pastamu+     826     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+pastamu+     888     725  0 Jul06 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+pastamu+     931     725  0 Jul06 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+pastamu+     959     931  0 Jul06 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+pastamu+     963     725  5 Jul06 ?        00:01:38 /usr/bin/gnome-shell
+pastamu+     970     959  0 Jul06 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+pastamu+     998     725  0 Jul06 ?        00:00:00 /usr/libexec/xdg-permission-store
+pastamu+    1000     725  0 Jul06 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+pastamu+    1009     725  0 Jul06 ?        00:00:00 /usr/libexec/evolution-source-registry
+pastamu+    1013     725  0 Jul06 ?        00:00:00 /usr/libexec/dconf-service
+root        1017       1  0 Jul06 ?        00:00:00 /usr/libexec/upowerd
+pastamu+    1021     725  0 Jul06 ?        00:00:00 /usr/libexec/goa-daemon
+pastamu+    1028     725  0 Jul06 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+pastamu+    1031     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+pastamu+    1046     725  0 Jul06 ?        00:00:00 /usr/libexec/goa-identity-service
+pastamu+    1047     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+pastamu+    1056     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+pastamu+    1066     725  0 Jul06 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+pastamu+    1067     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+pastamu+    1077     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+root        1106       1  0 Jul06 ?        00:00:00 /usr/libexec/packagekitd
+pastamu+    1124     808  0 Jul06 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+pastamu+    1140     725  0 Jul06 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+pastamu+    1142     725  0 Jul06 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+pastamu+    1152     725  0 Jul06 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+pastamu+    1153     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+pastamu+    1156    1152  0 Jul06 ?        00:00:02 /usr/bin/ibus-daemon --panel disable
+pastamu+    1157     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-color
+pastamu+    1161     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-datetime
+pastamu+    1163     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-housekeeping
+pastamu+    1166     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-keyboard
+pastamu+    1167     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-media-keys
+pastamu+    1168     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-power
+pastamu+    1173     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-print-notifications
+pastamu+    1175     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-rfkill
+pastamu+    1179     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+pastamu+    1182     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-sharing
+pastamu+    1197     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-smartcard
+pastamu+    1198     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-sound
+pastamu+    1199     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-wacom
+pastamu+    1236     931  0 Jul06 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+pastamu+    1237     931  0 Jul06 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+pastamu+    1252    1156  0 Jul06 ?        00:00:00 /usr/libexec/ibus-dconf
+pastamu+    1253    1156  0 Jul06 ?        00:00:01 /usr/libexec/ibus-extension-gtk3
+pastamu+    1257     725  0 Jul06 ?        00:00:00 /usr/libexec/ibus-portal
+pastamu+    1286     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-printer
+pastamu+    1360    1156  0 Jul06 ?        00:00:00 /usr/libexec/ibus-engine-simple
+colord      1385       1  0 Jul06 ?        00:00:00 /usr/libexec/colord
+pastamu+    1392     725  0 Jul06 ?        00:00:03 /usr/libexec/gnome-initial-setup --existing-user
+pastamu+    1393     725  0 Jul06 ?        00:00:01 /usr/libexec/tracker-miner-fs-3
+pastamu+    1400     725  0 Jul06 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+pastamu+    1411     725  0 Jul06 ?        00:00:00 /usr/libexec/xdg-document-portal
+root        1417    1411  0 Jul06 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+pastamu+    1423     725  0 Jul06 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gnome
+pastamu+    1446     725  0 Jul06 ?        00:00:00 /usr/libexec/gvfsd-metadata
+pastamu+    1459     725  0 Jul06 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+pastamu+    1487     725  0 Jul06 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+root        1507       1  0 Jul06 ?        00:00:00 /usr/libexec/ubuntu-advantage-desktop-daemon
+pastamu+    1832     725  0 Jul06 ?        00:00:00 /snap/snapd-desktop-integration/49/usr/bin/snapd-desktop-integration
+pastamu+    1998    1832  0 Jul06 ?        00:00:00 /snap/snapd-desktop-integration/49/usr/bin/snapd-desktop-integration
+pastamu+    2022    1392  0 Jul06 ?        00:00:00 /usr/bin/bwrap --args 55 -- /usr/bin/xdg-dbus-proxy --args=52
+pastamu+    2023    2022  0 Jul06 ?        00:00:00 /usr/bin/bwrap --args 55 -- /usr/bin/xdg-dbus-proxy --args=52
+pastamu+    2028    2023  0 Jul06 ?        00:00:00 /usr/bin/xdg-dbus-proxy --args=52
+pastamu+    2079     931  0 Jul06 ?        00:00:00 update-notifier
+pastamu+    2224     725  0 Jul06 ?        00:00:00 /usr/bin/seahorse --gapplication-service
+pastamu+    2225     725  0 Jul06 ?        00:00:04 /usr/libexec/gnome-terminal-server
+pastamu+    2227     725  0 Jul06 ?        00:00:00 /usr/bin/gnome-calendar --gapplication-service
+pastamu+    2331    2225  0 Jul06 pts/0    00:00:00 bash
+pastamu+    2659     963  0 Jul06 ?        00:00:00 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.AFXX71 -listen 4 -listen 5 -displayfd 6 -initfd 7
+pastamu+    2664     725  0 Jul06 ?        00:00:00 /usr/libexec/gsd-xsettings
+pastamu+    2698     725  0 Jul06 ?        00:00:00 /usr/libexec/ibus-x11
+root        3721       2  0 00:00 ?        00:00:00 [kworker/0:0-cgroup_destroy]
+root        3722       2  0 00:00 ?        00:00:00 [kworker/u4:1-events_unbound]
+root        3725       2  0 00:00 ?        00:00:00 [kworker/1:1-events]
+root        3970       2  0 00:05 ?        00:00:00 [kworker/u4:0-ext4-rsv-conversion]
+pastamu+    4020     963  0 00:08 ?        00:00:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:800:600:1:27:0:0:0:0
+root        4056       2  0 00:08 ?        00:00:00 [kworker/u4:2-events_power_efficient]
+root        4063       2  0 00:09 ?        00:00:00 [kworker/0:1-events]
+pastamu+    4637    2331  0 00:13 pts/0    00:00:00 ps -ef
